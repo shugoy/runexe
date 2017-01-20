@@ -1,0 +1,1 @@
+//var shell = new ActiveXObject("WScript.Shell");//shell.Run("~/Documents/test/hello", 0, true);var fileObj = new File("~/Documents/runexe/bat.command");fileObj.execute();//exec("~/Documents/test/hello");
